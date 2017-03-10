@@ -1,0 +1,11 @@
+{
+    "require": {
+        "deimos/orm": "~2.0",
+        "illuminate/database": "5.4.x-dev",
+        "deimos/micro-benchmark": "0.0.1",
+        "doctrine/orm": "^2.5",
+        "propel/propel": "dev-master",
+        "j4mie/idiorm": "^1.5",
+        "phpixie/orm": "^3.14"
+    }
+}
